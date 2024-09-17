@@ -42,10 +42,6 @@ Este é um projeto simples de uma página web que realiza o sorteio de 15 númer
 
 - Um navegador web moderno (Google Chrome, Firefox, etc.)
 
-## Demonstração
-
-![Demonstração](https://via.placeholder.com/600x400?text=Sorteio+de+Números)
-
 ## Contribuição
 
 Sinta-se à vontade para fazer um fork deste projeto e adaptá-lo para suas necessidades. Sugestões e melhorias são bem-vindas!
